@@ -1,0 +1,8 @@
+streamlit
+python-pptx
+pandas
+requests
+python-dotenv
+openpyxl
+PyYAML
+plotly
